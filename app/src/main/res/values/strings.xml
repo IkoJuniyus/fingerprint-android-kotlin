@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fingerprint Authentication</string>
+    <string name="auth_title"> Authenticate </string>
+    <string name="auth_success">Congratulation ! You have Successfully Authorization has</string>
+    <string name="aut_fail">Authorization is not Success</string>
+    <string name="msg"> Sweep on your Fingerprint to Authorize</string>
+    <string name="btn_auth">Sweep</string>
+    <string name="fingerprint_not_supported">fingerprint_not_supported</string>
+    <string name="no_fingerprint_configured">no_fingerprint_configured</string>
+    <string name="secure_lock_not_enabled">secure_lock_not_enabled</string>
+</resources>
